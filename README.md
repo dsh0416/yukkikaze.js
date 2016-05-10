@@ -1,6 +1,11 @@
 # Yukkikaze.js
 
+## DEPRECATED
+
+Yukkikaze.js is now a part of [heckpsi-lab/najax](https://github.com/heckpsi-lab/najax), this branch is no longer maintained.
+
 ## What is Yukkikaze.js
+
 Yukkikaze.js is a protocol and framework building on WebSocket, providing realtime listener and low cost ajax-like request on front-end browsers.
 
 Yukkikaze.js provides a set of APIs to build its own protocol on the WebSocket, making it easy to use. For developing realtime app, yukkikaze.js would provide event listener on specific event you defined, and it would be run on a separate connection to keep the realtime efficiency. It also provides ajax-like request APIs to deal with asynchronous requests. It would manage the connection numbers itself to reduce the packages' size and the connection times to the server, releasing the cost of the servers than traditional ajax.
