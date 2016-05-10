@@ -2,7 +2,7 @@
 
 ## DEPRECATED
 
-Yukkikaze.js is now a part of [heckpsi-lab/najax](https://github.com/heckpsi-lab/najax), this branch is no longer maintained.
+Yukkikaze.js is now a part of [heckpsi-lab/noaj](https://github.com/heckpsi-lab/noaj), this branch is no longer maintained.
 
 ## What is Yukkikaze.js
 
